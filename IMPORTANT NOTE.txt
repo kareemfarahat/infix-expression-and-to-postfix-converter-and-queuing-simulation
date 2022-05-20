@@ -1,0 +1,1 @@
+The Solution has 3 cpp files with Main fucntions all are commented tou just Need to uncomment the Q you want to check
